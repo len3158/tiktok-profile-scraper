@@ -1,0 +1,15 @@
+# Output
+*.xlsx
+tiktok_metrics.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Playwright
+.playwright-cache/
+
+# OS
+.DS_Store
